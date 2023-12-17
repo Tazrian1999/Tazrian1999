@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tazrian Zaman Tushti</h1>
+<h1 align="center">Hello, I'm Tazrian Zaman Tushti</h1>
 <h3 align="center">I am a dedicated software engineer with a passion for cutting-edge research and technology</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/Bpv9wTLKMskAAAAC/computer-nerds.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tazrian1999&label=Profile%20views&color=0e75b6&style=flat" alt="tazrian1999" /> </p>
